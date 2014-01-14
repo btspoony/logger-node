@@ -1,0 +1,9 @@
+{
+  "name": "logger-node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "log4js": ">=0.6.7"
+  },
+  "readmeFilename": "README.md"
+}
